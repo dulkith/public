@@ -12,6 +12,8 @@
 // @homepageURL    https://dulkith.com
 // @supportURL     https://dulkith.com
 // @icon           https://i.ibb.co/G2j7XHY/duka-logo-jwplayer.png
+// @updateURL      https://raw.githubusercontent.com/dulkith/public/dev/ytb.js
+// @downloadURL    https://raw.githubusercontent.com/dulkith/public/dev/ytb.js
 // @grant          none
 // @run-at         document-idle
 // ==/UserScript==
